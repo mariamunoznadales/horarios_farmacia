@@ -32,9 +32,9 @@ Este programa permite gestionar y consultar los turnos de empleados de una farma
 
 - Los nombres de los empleados deben coincidir exactamente con los definidos en el programa. Por ejemplo: "Empleado_1", "Empleado_2"... hasta el 4.
 - Los días de la semana deben escribirse correctamente: "Lunes", "Martes", etc.
-- La hora debe estar en el formato de 24 horas (HH:MM), dentro del rango `00:00` a `23:59`.
+- La hora debe estar en el formato de 24 horas (HH:MM), dentro del rango 00:00 a 23:59.
 
 
 ## Modificaciones
 
-Los turnos predefinidos y los nombres de los empleados pueden ser editados directamente en el código en las estructuras `turnos_predefinidos` y `empleados`.
+Los turnos predefinidos y los nombres de los empleados pueden ser editados directamente en el código en las estructuras turnos_predefinidos y empleados.
