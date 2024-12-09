@@ -28,7 +28,7 @@ Este programa permite gestionar y consultar los turnos de empleados de una farma
    - Introduce el día de la semana en el campo "Día de la Semana".
    - Presiona el botón "Consultar Empleado(s) a Hora Específica". Verás quién está trabajando en esa hora y día, si corresponde.
 
-## Notas importantes
+## Notas 
 
 - Los nombres de los empleados deben coincidir exactamente con los definidos en el programa. Por ejemplo: "Empleado_1", "Empleado_2"... hasta el 4.
 - Los días de la semana deben escribirse correctamente: "Lunes", "Martes", etc.
