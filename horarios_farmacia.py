@@ -8,25 +8,25 @@ dias_semana = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", 
 # Turnos predefinidos: cada día tiene asignaciones diferentes para cada empleado
 turnos_predefinidos = {
     "Lunes": {
-        "Empleado_1": "00:00-06:00", "Empleado_2": "06:00-12:00", "Empleado_3": "12:00-18:00", "Empleado_4": "18:00-00:00"
+        "Empleado_1": "00:00-06:00", "Empleado_2": "06:00-12:00", "Empleado_3": "12:00-18:00", "Empleado_4": "18:00-23:59"
     },
     "Martes": {
-        "Empleado_1": "06:00-12:00", "Empleado_2": "12:00-18:00", "Empleado_3": "18:00-00:00", "Empleado_4": "00:00-06:00"
+        "Empleado_1": "06:00-12:00", "Empleado_2": "12:00-18:00", "Empleado_3": "18:00-23:59", "Empleado_4": "00:00-06:00"
     },
     "Miércoles": {
-        "Empleado_1": "12:00-18:00", "Empleado_2": "18:00-00:00", "Empleado_3": "00:00-06:00", "Empleado_4": "06:00-12:00"
+        "Empleado_1": "12:00-18:00", "Empleado_2": "18:00-23:59", "Empleado_3": "00:00-06:00", "Empleado_4": "06:00-12:00"
     },
     "Jueves": {
-        "Empleado_1": "18:00-00:00", "Empleado_2": "00:00-06:00", "Empleado_3": "06:00-12:00", "Empleado_4": "12:00-18:00"
+        "Empleado_1": "18:00-23:59", "Empleado_2": "00:00-06:00", "Empleado_3": "06:00-12:00", "Empleado_4": "12:00-18:00"
     },
     "Viernes": {
-        "Empleado_1": "00:00-06:00", "Empleado_2": "06:00-12:00", "Empleado_3": "12:00-18:00", "Empleado_4": "18:00-00:00"
+        "Empleado_1": "00:00-06:00", "Empleado_2": "06:00-12:00", "Empleado_3": "12:00-18:00", "Empleado_4": "18:00-23:59"
     },
     "Sábado": {
-        "Empleado_1": "06:00-12:00", "Empleado_2": "12:00-18:00", "Empleado_3": "18:00-00:00", "Empleado_4": "00:00-06:00"
+        "Empleado_1": "06:00-12:00", "Empleado_2": "12:00-18:00", "Empleado_3": "18:00-23:59", "Empleado_4": "00:00-06:00"
     },
     "Domingo": {
-        "Empleado_1": "12:00-18:00", "Empleado_2": "18:00-00:00", "Empleado_3": "00:00-06:00", "Empleado_4": "06:00-12:00"
+        "Empleado_1": "12:00-18:00", "Empleado_2": "18:00-23:59", "Empleado_3": "00:00-06:00", "Empleado_4": "06:00-12:00"
     }
 }
 
